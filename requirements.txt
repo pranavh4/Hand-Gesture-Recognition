@@ -59,7 +59,7 @@ ptyprocess==0.6.0
 pyasn1==0.4.2
 PyAudio==0.2.11
 pycrypto==2.6.1
-Pygments==2.4.2
+Pygments==2.7.4
 pygobject==3.26.1
 pylint==1.9.5
 pylint-flask==0.6
